@@ -1,0 +1,30 @@
+using System;
+
+namespace exo1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int montantCapital , tauxPlacement, annee;
+            do
+            {
+                Console.WriteLine("Saisir le montant de votre capital : ");
+                montantCapital = Convert.ToInt32(Console.ReadLine());
+            } while (montantCapital < 0);
+
+            do
+            {
+                Console.WriteLine("Saisir le taux de placement : ");
+                tauxPlacement = Convert.ToInt32(Console.ReadLine());
+            } while (tauxPlacement < 0 || tauxPlacement > 100);
+
+
+            do
+            {
+                Console.WriteLine("Saisir l'annee de placement : ");
+                annee = Convert.ToInt32(Console.ReadLine());
+            } while (annee < 2020);
+        }
+    }
+}
