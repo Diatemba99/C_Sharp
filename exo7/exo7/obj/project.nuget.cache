@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxyjg0tj+l7ss3MQq7/s41M8QNVtqgKI0i6O4pmOgE52UG75mFbdQzMXET0kp9imDQotwnYtPQ2M6KDoYCDX7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CODING\\C#\\MARTIN_CLAUDE_DIATTA_C#\\exo7\\exo7\\exo7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
