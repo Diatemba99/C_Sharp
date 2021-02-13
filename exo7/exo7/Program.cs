@@ -117,7 +117,6 @@ namespace exo7
                     }
                     break;
 
-
                 case 4:
                     Console.Clear();
                     Console.WriteLine("Bienvenue sur le menu du Jeudi");
