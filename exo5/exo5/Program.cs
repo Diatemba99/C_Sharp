@@ -27,7 +27,6 @@ namespace exo5
             {
                 goto top;
             }
-           
         }
     }
 }
