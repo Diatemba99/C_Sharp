@@ -13,7 +13,6 @@ namespace exo5
                 Console.WriteLine("Saisissez le nombre: ");
                 number = Convert.ToInt32(Console.ReadLine());
             } while (number > 20);
-           
 
             long result = 1;
             for (int i = 2; i <= number; i++)
