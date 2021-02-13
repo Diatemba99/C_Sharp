@@ -19,7 +19,6 @@ namespace exo1
                 tauxPlacement = Convert.ToInt32(Console.ReadLine());
             } while (tauxPlacement < 0 || tauxPlacement > 100);
 
-
             do
             {
                 Console.WriteLine("Saisir l'annee de placement : ");
