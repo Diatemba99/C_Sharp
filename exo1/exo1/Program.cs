@@ -46,7 +46,6 @@ namespace exo1
                 interet = montantCapital * tauxPlacement / 100;
                 montantTotal += montantTotal + interet;
                 Console.WriteLine(montantTotal);
-
             }
             //Console.WriteLine(montantTotal);
         }
