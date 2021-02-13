@@ -8,10 +8,10 @@ namespace bank
 {
     class fonction
     {
-        public static double calcul_interet(double capital, double taux)
+        public static double cal_interest(double capital, double taux)
         {
-            double interet = capital * taux / 100;
-            return interet;
+            double interest = capital * taux / 100;
+            return interest;
         }
     }
 }
