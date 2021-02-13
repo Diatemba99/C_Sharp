@@ -243,7 +243,6 @@ namespace exo7
                             break;
                     }
                     break;
-
             }
         }
         static void menu()
