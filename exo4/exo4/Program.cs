@@ -11,7 +11,6 @@ namespace exo4
             Random valeur = new Random();
             int nombreMystere = valeur.Next(100);
 
-
             for ( int i = 0; i <3; i++ )
             {
           
