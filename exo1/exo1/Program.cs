@@ -29,7 +29,6 @@ namespace exo1
                 }
             } while (tauxPlacement < 0 || tauxPlacement > 100);
 
-
             do
             {
                 Console.WriteLine("Saisir l'annee de placement : ");
