@@ -45,7 +45,6 @@ namespace exo6
                 if (b != 0)
                 {
                     Console.WriteLine("S = {" + -c /b +  "}");
-
                 }
                 else if (b == 0)
                 {
