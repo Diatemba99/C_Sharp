@@ -12,7 +12,7 @@ namespace exo2
                 bounce++;
                 hauteur *= 0.9 ;
             }
-            Console.WriteLine("Il faudra de " + bounce + " rebond(s)!");
+            Console.WriteLine("Il faudra de " + bounce + " rebond(s)! pour y arriver");
         }
     }
 }
