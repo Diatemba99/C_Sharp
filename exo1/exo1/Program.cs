@@ -47,7 +47,6 @@ namespace exo1
                 montantTotal += montantTotal + interet;
                 Console.WriteLine(montantTotal);
             }
-            //Console.WriteLine(montantTotal);
         }
     }
 }
