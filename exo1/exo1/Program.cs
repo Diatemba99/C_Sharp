@@ -16,7 +16,6 @@ namespace exo1
                 {
                     Console.WriteLine("veuillez saisir à nouveau votre capital !");
                 }
-
             } while (montantCapital < 10000);
 
             do
