@@ -32,7 +32,6 @@ namespace exo6
                 {
                     x0 = -b / (2 * a);
                     Console.WriteLine("La solution est S ={ " + x0 + "}");
-
                 }
                 else if (delta < 0)
                 {
