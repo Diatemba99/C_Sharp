@@ -55,7 +55,6 @@ namespace exo6
                     {
                         Console.WriteLine("Pas de solution S = { R }");
                     }
-
                 }
             }
 
