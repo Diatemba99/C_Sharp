@@ -14,7 +14,6 @@ Global
 		{8E96D7A2-25B7-473A-86E5-DAF15AC99207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8E96D7A2-25B7-473A-86E5-DAF15AC99207}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E96D7A2-25B7-473A-86E5-DAF15AC99207}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		
 		{8E96D7A2-25B7-473A-86E5-DAF15AC99207}.Release|Any CPU.Build.0 = Release|Any CPU
 		
 	EndGlobalSection
