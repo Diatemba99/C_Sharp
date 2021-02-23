@@ -1,4 +1,3 @@
-        {
             int montantCapital , tauxPlacement, annee;
             do
             {
