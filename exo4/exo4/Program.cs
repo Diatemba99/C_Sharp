@@ -29,7 +29,6 @@ namespace exo4
                     {
                         break;
                     }
-
                 }
                 else if (val > nombreMystere)
                 {
