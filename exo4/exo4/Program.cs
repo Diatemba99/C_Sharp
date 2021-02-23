@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace exo4
 {
     class Program
