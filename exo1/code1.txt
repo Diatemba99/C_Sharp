@@ -1,4 +1,3 @@
-            int montantCapital , tauxPlacement, annee;
             do
             {
                 Console.WriteLine("Saisir le montant de votre capital : ");
