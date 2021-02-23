@@ -1,4 +1,3 @@
-            } while (tauxPlacement < 0 || tauxPlacement > 100);
 
             do
             {
