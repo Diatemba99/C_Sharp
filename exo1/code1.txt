@@ -1,4 +1,3 @@
-
             do
             {
                 Console.WriteLine("Saisir le taux de placement : ");
