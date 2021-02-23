@@ -12,7 +12,6 @@ namespace exo4
 
             for ( int i = 0; i <3; i++ )
             {
-          
                 Console.WriteLine("Saisir un nombre :");
                 int val = Convert.ToInt32(Console.ReadLine());
 
