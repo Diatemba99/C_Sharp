@@ -1,4 +1,3 @@
-                tauxPlacement = Convert.ToInt32(Console.ReadLine());
             } while (tauxPlacement < 0 || tauxPlacement > 100);
 
             do
