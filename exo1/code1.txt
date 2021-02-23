@@ -1,4 +1,3 @@
-            } while (montantCapital < 0);
 
             do
             {
